@@ -1,0 +1,6 @@
+npm install --save-dev nodemon
+npm install dotenv 
+npm install express
+npm install mysql
+npm install jsonwebtoken
+npm install bcrypt  || hash password
