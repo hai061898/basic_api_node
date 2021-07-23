@@ -4,3 +4,4 @@ npm install express
 npm install mysql
 npm install jsonwebtoken
 npm install bcrypt  || hash password
+npm install express mysql body-parser
