@@ -5,3 +5,9 @@ npm install mysql
 npm install jsonwebtoken
 npm install bcrypt  || hash password
 npm install express mysql body-parser
+npm install --save sequelize
+
+"scripts": {
+    "start": "nodemon app.js", // Khởi động và đọc app.js cùng với npm
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
