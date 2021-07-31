@@ -8,6 +8,7 @@ npm install express mysql body-parser
 npm install --save sequelize
 npm install -g mysql2
 npm i fastest-validator --save
+npm install --save multer // upload image
 
 "scripts": {
     "start": "nodemon app.js", // Khởi động và đọc app.js cùng với npm
