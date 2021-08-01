@@ -6,7 +6,7 @@ npm install jsonwebtoken
 npm install bcrypt  || hash password
 npm install express mysql body-parser
 npm install --save sequelize
-npm install -g mysql2
+npm install --save mysql2
 npm i fastest-validator --save
 npm install --save multer // upload image
 
